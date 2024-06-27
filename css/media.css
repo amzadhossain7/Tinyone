@@ -1,0 +1,260 @@
+
+@media (max-width: 575px) {
+
+    /* header */
+    .logo {
+        width: 120px;
+    }
+    header ul li a {
+        font-size: 18px !important;
+        margin-left: 0;
+        text-align: center;
+        padding: 10px 0 0 !important;
+    }
+
+    header {
+        padding: 10px 0;
+    }
+
+    
+    /* slider */
+
+    .text-item h2,
+    .text-item p {
+        width: 100%;
+        margin: 20px auto;
+    }
+
+
+    .text-item {
+        text-align: center;
+    }
+    .slider {
+        padding: 20px 0px 50px;
+    }
+    .c_ind {
+        bottom: -50px;
+    }
+    .c_ind [data-bs-target] {
+        width: 10px;
+        height: 10px;
+    }
+    .text-item h1 {
+        font-size: 26px;
+    }
+
+    .icon ul li i {
+        font-size: 36px;
+        margin-right: 20px;
+    }
+    .text-item h2 {
+        font-size: 19px;
+    }
+
+     /* feature */
+
+     .features {
+        padding: 50px 0px 70px;
+    }
+
+    .common_title h1{
+
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+        
+    .common_title p{ 
+        font-size: 17px;
+        line-height: 25px;
+    }
+
+    .f_content{
+
+        margin-top: 30px;
+    } 
+    .f_item{
+        text-align: center;
+    }
+
+    .f_text{
+        text-align: center !important;
+    }
+
+    .f_item i{
+    
+        font-size: 35px;
+    }
+    .f_text h2{
+        font-size: 20px;         
+    }
+
+    .f_text p{       
+        letter-spacing: 0px;
+    }
+
+    /* form start  */
+
+    .c_form{
+
+        margin: 20px 0 40px;
+    
+    }
+    .c_input{
+    
+        height: 45px;
+        padding: 8px 16px;
+    
+    
+    }
+    
+    .custom_btn{
+        height: 45px;   
+    }
+
+    /* footer start  */
+    footer{
+        padding: 0px 0 70px;
+    
+    }
+    .f_content{
+        text-align: center;
+    }
+    .f_content1{
+        margin-top: 40px;
+    }
+    
+    .f_content1 p{
+        text-align: center;
+        margin-bottom: 5px;
+    }
+
+    /* footer end  */
+        
+
+        
+
+
+}
+
+
+@media(min-width: 576px) and (max-width: 767px) {
+    /* header */
+
+    header ul li a {
+        font-size: 20px !important;
+        margin-left: 0;
+        text-align: center;
+        padding: 10px 0 0 !important;
+    }
+
+    header {
+        padding: 15px 0;
+    }
+
+
+    .text-item h2,
+    .text-item p {
+        width: 100%;
+        margin: 25px auto;
+    }
+
+    /* slider */
+
+    .text-item {
+        text-align: center;
+    }
+    .slider {
+        padding: 20px 0px 80px;
+    }
+
+    .c_ind {
+        bottom: -65px;
+    }
+    .c_ind [data-bs-target] {
+        width: 13px;
+        height: 13px;
+    }
+    .text-item h1 {
+        font-size: 30px;
+    }
+    .icon ul li i {
+        font-size: 36px;
+        margin-right: 20px;
+    }
+
+     /* feature */
+
+     .features {
+        padding: 50px 0px 70px;
+    }
+
+    .f_content{
+
+        margin-top: 50px;
+    }
+    .f_item{
+        text-align: center;
+    }
+
+    .f_text{
+        text-align: center;
+    }
+
+     /* footer start  */
+     footer{
+        padding: 0px 0 70px;
+    
+    }
+    .f_content{
+        text-align: center;
+        margin-bottom: 40px !important;
+    } 
+    .f_content1 p{
+        text-align: center;
+    }
+
+    /* footer end  */
+    
+}
+
+
+@media(min-width: 768px) and (max-width: 991px) {
+    /* header */
+
+    header ul li a {
+        margin-left: 0;
+        text-align: center;
+        padding: 10px 0 0 !important;
+    }
+
+    /* slider */
+    .text-item h2,
+    .text-item p {
+        width: 80%;
+    }
+    .slider {
+        padding: 20px 0px 100px;
+    }
+
+    /* feature */
+
+    .features {
+        padding: 80px 0px 100px;
+    }
+
+}
+
+
+@media(min-width: 992px) and (max-width: 1199px) {
+    
+}
+
+
+@media(min-width: 1200px) and (max-width: 1439px) {
+    
+}
+
+
+@media(min-width: 1440px) {
+    
+}
